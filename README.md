@@ -122,7 +122,7 @@ diabetes-glucose-analysis/
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/your-username/diabetes-glucose-analysis.git
 
 ### 2. Navigate to project folder
