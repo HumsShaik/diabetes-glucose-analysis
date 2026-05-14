@@ -1,7 +1,6 @@
 ✍️  README.md
 
-# 🩺 Project Title
-# 🩺 Diabetes Glucose Analysis Using CGM and Wearable Sensor Data
+# 🩺 Project Title - Diabetes Glucose Analysis Using CGM and Wearable Sensor Data
 
 ## 📌 Project Overview
 
