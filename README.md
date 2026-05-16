@@ -22,7 +22,21 @@ To analyze how insulin dosage, carbohydrate intake, physical activity, and physi
 
 ## 📊 Dataset Information
 
-The dataset used in this project is the **HUPA-UCM Diabetes Dataset**, which includes data collected from 25 individuals with Type 1 Diabetes over approximately 14 days.
+This project uses the **HUPA-UCM Diabetes Dataset**, which contains Continuous Glucose Monitoring (CGM) data and wearable sensor data collected from 25 individuals with Type 1 Diabetes Mellitus (T1DM).
+
+The dataset includes:
+- Blood glucose measurements
+- Insulin administration records
+- Carbohydrate intake
+- Physical activity data
+- Heart rate measurements
+- Calories burned
+
+Data was collected over approximately 14 days using:
+- FreeStyle Libre 2 CGMs
+- Fitbit Ionic smartwatches
+
+The dataset supports research on glucose prediction, diabetes management, and relationships between physiological and lifestyle factors.
 
 ### Key Features:
 - `time` → Timestamp of observation
