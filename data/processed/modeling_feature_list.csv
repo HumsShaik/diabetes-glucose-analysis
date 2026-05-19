@@ -1,0 +1,15 @@
+feature_name
+calories
+heart_rate
+steps
+basal_rate
+bolus_volume_delivered
+carb_input
+hour
+day
+day_of_week
+glucose_lag_1
+glucose_lag_3
+glucose_lag_6
+glucose_rolling_30min
+glucose_rolling_1hr
