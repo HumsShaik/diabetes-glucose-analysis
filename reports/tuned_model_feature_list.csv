@@ -1,0 +1,8 @@
+feature_name
+calories
+heart_rate
+glucose_lag_1
+glucose_lag_3
+glucose_lag_6
+glucose_rolling_30min
+glucose_rolling_1hr
