@@ -1,5 +1,35 @@
-venv/
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter
 .ipynb_checkpoints/
-models/*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Large raw data files
+data/raw/
+
+# Temporary files
+*.tmp
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Model cache or temporary outputs
+cache/
+
+# models/*.pkl
 *.pkl
