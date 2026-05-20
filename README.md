@@ -268,8 +268,8 @@ Note: Trained model `.pkl` files are not included in this repository because the
 ## Final Project Summary
 
 This project demonstrates a complete end-to-end data analysis and machine learning workflow using diabetes glucose monitoring data. The project begins with raw patient-level time-series data and progresses through data understanding, cleaning, preprocessing, exploratory data analysis, feature engineering, baseline modeling, hyperparameter tuning, model evaluation, and dashboard creation.
-
 The final tuned Random Forest model predicts glucose levels using health, activity, insulin, carbohydrate, time-based, lag, and rolling glucose features. The project also includes a Streamlit dashboard to communicate model results, prediction performance, residual patterns, feature importance, limitations, and conclusions in an interactive format.
+
 ---
 
 ### Key Findings
