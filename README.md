@@ -68,6 +68,7 @@ The dataset supports research on glucose prediction, diabetes management, and re
 
 ## 📁 Project Structure
 
+```text
 diabetes-glucose-analysis/
 │
 ├── data/
@@ -105,6 +106,8 @@ diabetes-glucose-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+```
+
 ---
 
 ## 🔄 Project Workflow
