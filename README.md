@@ -187,17 +187,6 @@ The model was selected because it handled nonlinear relationships better than si
 
 ---
 
-## 🚧 Current Status
-
-- [x] Project structure setup
-- [x] GitHub repository initialization
-- [ ] Data loading and exploration
-- [ ] Data cleaning
-- [ ] Exploratory data analysis
-- [ ] Insights and visualization
-- [ ] Final report
-
----
 ### Final Model
 
 Mention:
@@ -205,6 +194,8 @@ Mention:
 - Final model: Tuned Random Forest Regressor
 - Evaluation metrics: MAE, RMSE, R²
 - Main interpretation: recent glucose history was highly important for prediction
+
+---
 
 ## 🛠️ Tools & Technologies Used
 
@@ -328,7 +319,7 @@ Future improvements could include:
 ## 👤 Author
 
 - Name: *Humera Anjum*
-- GitHub: *your-github-profile-link*
+- GitHub: *https://github.com/HumsShaik*
 
 ---
 
